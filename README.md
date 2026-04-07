@@ -1,12 +1,3 @@
----
-title: README
-emoji: 👀
-colorFrom: purple
-colorTo: indigo
-sdk: static
-pinned: false
----
----
 # EdgeCompress
 
 **EdgeCompress** is a graduation project developed by senior Computer Science students from **Capital University, Egypt**.
