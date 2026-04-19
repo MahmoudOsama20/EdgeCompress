@@ -6,7 +6,7 @@
     "generated_text": "Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, such as learning, problem-solving, reasoning, and perception. It enables systems to perform tasks that typically require human intelligence, like understanding language, recognizing patterns, and making decisions. AI is achieved through algorithms and data, allowing machines to improve their performance over time. It is used in various applications, including robotics, healthcare, finance, and entertainment. 🤖✨\n\n**Key aspects:**\n- **Learning:** Systems can improve through experience.\n- **Reasoning:** Machines can make logical decisions.\n- **Perception:** AI can interpret data (e.g., images, speech).\n- **Applications:** Wide range from simple automation to complex decision-making.\n\nAI aims to",
     "input_token_count": 20,
     "generated_token_count": 150,
-    "time_to_first_token_sec": 0.041461445000010144,
-    "end_to_end_latency_sec": 4.049620589999989,
-    "throughput_tokens_per_sec": 37.040507046612085
+    "time_to_first_token_sec": 0.04251870600000984,
+    "end_to_end_latency_sec": 4.274364697999999,
+    "throughput_tokens_per_sec": 35.09293441202757
 }
