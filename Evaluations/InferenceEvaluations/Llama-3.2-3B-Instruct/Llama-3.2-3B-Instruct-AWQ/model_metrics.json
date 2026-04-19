@@ -6,7 +6,7 @@
     "generated_text": "Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as:\n\n1. Learning: AI systems can learn from data and improve their performance over time.\n2. Problem-solving: AI systems can analyze problems and find solutions.\n3. Perception: AI systems can interpret and understand data from sensors and other sources.\n4. Reasoning: AI systems can draw conclusions and make decisions based on the data they have.\n\nAI systems can be categorized into two main types:\n\n1. **Narrow or Weak AI**: Designed to perform a specific task, such as image recognition, speech recognition, or language translation.\n2. **General or Strong AI**: A hypothetical AI system that possesses human-like intelligence,",
     "input_token_count": 44,
     "generated_token_count": 150,
-    "time_to_first_token_sec": 0.020703902999684942,
-    "end_to_end_latency_sec": 2.246531000000232,
-    "throughput_tokens_per_sec": 66.76961056846513
+    "time_to_first_token_sec": 0.021516748999601987,
+    "end_to_end_latency_sec": 2.1537608739999996,
+    "throughput_tokens_per_sec": 69.6456147062499
 }
