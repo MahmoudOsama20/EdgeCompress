@@ -7,7 +7,7 @@
     "generated_text": "**What is Artificial Intelligence?**\n\nArtificial Intelligence (AI) refers to the development of computer systems that can perform tasks that would typically require human intelligence, such as:\n\n* **Learning**: AI systems can learn and improve their performance over time, just like humans.\n* **Problem-solving**: AI can analyze and solve complex problems, often with more accuracy and efficiency than humans.\n* **Adaptation**: AI can adapt to new situations and learn from new data, just like humans.\n\n**Types of Artificial Intelligence**\n\nThere are several types of AI, including:\n\n* **Narrow AI**: Designed to solve a specific problem, such as image recognition, speech recognition, or language translation.\n* **General-to-Specific AI**: Can be applied to a",
     "input_token_count": 44,
     "generated_token_count": 150,
-    "time_to_first_token_sec": 0.023707774000058635,
-    "end_to_end_latency_sec": 2.2133393960000376,
-    "throughput_tokens_per_sec": 67.77089870224198
+    "time_to_first_token_sec": 0.021664430999862816,
+    "end_to_end_latency_sec": 2.0492326569999477,
+    "throughput_tokens_per_sec": 73.19813076744454
 }
