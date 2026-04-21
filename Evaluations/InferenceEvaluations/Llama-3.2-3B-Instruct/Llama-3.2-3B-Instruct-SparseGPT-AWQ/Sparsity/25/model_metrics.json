@@ -7,7 +7,7 @@
     "generated_text": "Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as:\n\n1. **Learning**: AI systems can learn from data and improve their performance over time.\n2. **Problem-solving**: AI systems can analyze data and make decisions or take actions to solve complex problems.\n3. **Perception**: AI systems can interpret and understand data from sensors, images, or text.\n4. **Reasoning**: AI systems can draw inferences and make logical conclusions based on the data.\n\nAI can be applied in various domains, including:\n\n1. **Virtual assistants**: Siri, Alexa, and Google Assistant\n2. **Image recognition**: Self-driving cars, facial recognition, and medical imaging\n3",
     "input_token_count": 44,
     "generated_token_count": 150,
-    "time_to_first_token_sec": 0.027108862999995154,
-    "end_to_end_latency_sec": 2.2199439900000044,
-    "throughput_tokens_per_sec": 67.56927232204615
+    "time_to_first_token_sec": 0.022072094999998626,
+    "end_to_end_latency_sec": 2.131612250000046,
+    "throughput_tokens_per_sec": 70.36927095910467
 }
