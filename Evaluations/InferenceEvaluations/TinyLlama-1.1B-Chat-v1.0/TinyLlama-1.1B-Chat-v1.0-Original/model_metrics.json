@@ -1,0 +1,10 @@
+{
+    "model_name": "TinyLlama-1.1B-Chat-v1.0",
+    "prompt_text": "<|user|>\nProvide a concise explanation of Artificial Intelligence.</s>\n<|assistant|>\n",
+    "generated_text": "Artificial Intelligence (AI) is a field of computer science that involves the development of machines that can perform tasks that are typically done by humans, such as reasoning, learning, and problem-solving. AI is a complex field that involves a wide range of technologies, including machine learning, deep learning, natural language processing, robotics, and computer vision.\n\nAI has the potential to revolutionize many aspects of our lives, from healthcare to transportation to finance. Some of the key benefits of AI include:\n\n1. Improved healthcare: AI can help doctors make more accurate diagnoses and prescribe more effective treatments. For example, AI can analyze medical images and",
+    "input_token_count": 31,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.02223476300002858,
+    "end_to_end_latency_sec": 1.9636607739999477,
+    "throughput_tokens_per_sec": 76.38793929485705
+}
