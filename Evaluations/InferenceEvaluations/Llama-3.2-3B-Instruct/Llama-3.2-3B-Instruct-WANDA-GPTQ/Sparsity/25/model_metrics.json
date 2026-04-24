@@ -7,7 +7,7 @@
     "generated_text": "Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as:\n\n* Learning from data\n* Making decisions based on that data\n* Improving over time through machine learning and other techniques.\n\nThere are many types of AI, including:\n\n* Narrow or weak AI, which is designed to perform a specific task\n* General or strong AI, which is designed to perform any task that a human can\n* Superintelligence, which is a hypothetical AI that is significantly more intelligent than the best human.\n\nOverall, AI has the potential to revolutionize many aspects of our lives, from healthcare and education to transportation and entertainment. However, it also raises many questions and concerns, such as the potential",
     "input_token_count": 44,
     "generated_token_count": 150,
-    "time_to_first_token_sec": 0.024803046999977596,
-    "end_to_end_latency_sec": 2.1145199780000894,
-    "throughput_tokens_per_sec": 70.93808597725798
+    "time_to_first_token_sec": 0.02334411100014222,
+    "end_to_end_latency_sec": 2.1324820319998707,
+    "throughput_tokens_per_sec": 70.3405692283034
 }
