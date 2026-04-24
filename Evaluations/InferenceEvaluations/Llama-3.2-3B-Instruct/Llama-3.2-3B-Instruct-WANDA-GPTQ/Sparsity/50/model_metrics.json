@@ -7,7 +7,7 @@
     "generated_text": "Artificial Intelligence (AI) refers to the use of algorithms and machine learning techniques to enable computers to perform tasks that would typically require human intelligence, such as:\n\n* Recognizing and responding to voice or text\n* Analyzing and predicting human behavior\n* Making decisions and taking actions that would typically require human intelligence\n\nAI is often used in applications such as:\n\n* Virtual assistants, such as Siri, Alexa, and Google Assistant\n* Chatbots and conversational agents\n* Image and speech recognition systems\n* Recommendation and prediction systems\n\nAI is a rapidly evolving field, and new technologies and techniques are being developed and implemented regularly. As a result, the field of Artificial Intelligence is constantly evolving and expanding. New and innovative technologies and techniques are being developed",
     "input_token_count": 44,
     "generated_token_count": 150,
-    "time_to_first_token_sec": 0.023658738999984052,
-    "end_to_end_latency_sec": 2.1251901050000015,
-    "throughput_tokens_per_sec": 70.58192095243164
+    "time_to_first_token_sec": 0.02511101099980806,
+    "end_to_end_latency_sec": 2.1256899120003254,
+    "throughput_tokens_per_sec": 70.56532524014587
 }
