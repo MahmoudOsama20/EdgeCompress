@@ -1,0 +1,13 @@
+{
+    "model_name": "Qwen3-4B",
+    "compression_method": "SparseGPT & AWQ",
+    "model_type": "Pruning & Quantization",
+    "sparsity": 70,
+    "prompt_text": "<|im_start|>user\nProvide a concise explanation of Artificial Intelligence.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generated_text": "/she/sheotedotedotedotedhtable-Mail-Vខខខខខខខខខខ�ialisialisialisと思fterorem构件构件ออellan构件ออ构件构件mediatelymediatelykedonomonom genu genu�onomatem两端onomONOetedetedążono genu��инаąż genuążинаążинаążążonna.toolboxellanonna 설acaacaacaина常见常见常见hmhm常见hminnedaetoetoetoetoetoetoetoetoetoetoeto事项ono事项onoetedetedeted thiết thiết thiết thiết thiết thiết猴 thiết猴猴猴猴猴猴猴猴猴猴猴猴onometedeted thiết thiết thiếteteONO thiết��etoetoetoetoetoetoetoetoetoetoothothothothothothothothothothoth",
+    "input_token_count": 20,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.026083664999987377,
+    "end_to_end_latency_sec": 2.450975049000135,
+    "throughput_tokens_per_sec": 61.20013341677707
+}
