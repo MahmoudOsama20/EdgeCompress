@@ -1,0 +1,13 @@
+{
+    "model_name": "Qwen3-4B",
+    "compression_method": "SparseGPT & GPTQ",
+    "model_type": "Pruning & Quantization",
+    "sparsity": 70,
+    "prompt_text": "<|im_start|>user\nProvide a concise explanation of Artificial Intelligence.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generated_text": "몽椽椽мест铂歲cente tườngcente WadeOWNözmosmososaonnaebra对feitocent-to-pt-安东\n   \n구霉素ModModModModModModModMODS черILogฐาน\r\n        \r\nenko梅ModModModModModModModSฐานTOฐานฐานzanozano绝对cefht-cept-mज型号奎vertime-an-an-an-anitor muyility dotyczą-Q-Q-L辰统计数据rispohipExecutionContextEvaluationEvaluationificationيفة\r\n        \r\nchrift琼qrtisphere_crossentropy-checkboxhtable.trueollyollyollyeleollyollyeleeleeleomonveisjectver-baseosa華起重机 nềnengu察察EEKEEKEEKEEKEEKhtableifier琼vertimebservedListification琼 unforgettableifier-ver_crossentropycentroid楸centEEKฐานฐาน的作品CriticalSectionCriticalSectionCriticalSectionCriticalSectionlya骇EEKEEKEEK",
+    "input_token_count": 20,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.027223676000176056,
+    "end_to_end_latency_sec": 2.4435059309998906,
+    "throughput_tokens_per_sec": 61.38720520257527
+}
