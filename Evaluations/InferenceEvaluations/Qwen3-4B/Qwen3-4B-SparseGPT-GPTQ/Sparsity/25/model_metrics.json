@@ -1,0 +1,13 @@
+{
+    "model_name": "Qwen3-4B",
+    "compression_method": "SparseGPT & GPTQ",
+    "model_type": "Pruning & Quantization",
+    "sparsity": 25,
+    "prompt_text": "<|im_start|>user\nProvide a concise explanation of Artificial Intelligence.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generated_text": "Artificial Intelligence (AI) is the ability of a machine or computer to perform tasks that normally require human intelligence, such as problem-solving, perception, language understanding, and decision-making. 🤖✨. If you'd like a more technical or philosophical breakdown, feel free to ask! 😊. Let me know if you'd like a version tailored for a specific audience (e.g., students, professionals, general public)). I'm happy to help! 😊. If you have any other questions or need further clarification, please don't hesitate to ask! 😊. I'm here to help! 😊. If you'd like a more detailed or specialized explanation, please let me know! 😊. I'm always ready to assist",
+    "input_token_count": 20,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.026187153000137187,
+    "end_to_end_latency_sec": 2.3734463999999207,
+    "throughput_tokens_per_sec": 63.19923635098944
+}
