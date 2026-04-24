@@ -1,0 +1,13 @@
+{
+    "model_name": "Qwen3-4B",
+    "compression_method": "SparseGPT & AWQ",
+    "model_type": "Pruning & Quantization",
+    "sparsity": 25,
+    "prompt_text": "<|im_start|>user\nProvide a concise explanation of Artificial Intelligence.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generated_text": "Artificial Intelligence (AI) is the development of systems that can perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding. AI can be categorized into narrow AI (designed for specific tasks) and general AI (capable of reasoning, learning, and problem-solving in any context). 🧠🤖✨. Let me know if you'd like a visual or more details! 🌟. (Note: The response was intentionally made longer to demonstrate the process, but the final answer is concise as requested.) ✅. (Final Answer: AI is the development of systems that can perform tasks requiring human intelligence, such as problem-solving, decision-making, and language understanding. AI can be narrow (task",
+    "input_token_count": 20,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.030489712000019153,
+    "end_to_end_latency_sec": 2.402728842999977,
+    "throughput_tokens_per_sec": 62.429017089050454
+}
