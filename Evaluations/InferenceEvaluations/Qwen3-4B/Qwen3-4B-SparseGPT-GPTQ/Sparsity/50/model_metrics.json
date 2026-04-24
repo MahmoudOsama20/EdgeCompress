@@ -7,7 +7,7 @@
     "generated_text": "**Artificial Intelligence (AI)** is a subset of **Computer Science** and **Computer Engineering)** that **machines** to **perform tasks** that **normally** requires human-like **knowledge, reasoning, or problem-solving**. \n\nIn **Artificial Intelligence** (often **abbreviated as AI** in context), the **focus** is **not** on **reducing** the **human** **labor** but rather on **enabling** **machines** to **perform** tasks that **normally** require **human** **labor**. \n\n**In** **Artificial Intelligence** (often **abbreviated as AI** in context)), the **focus** is **not** on **reducing**",
     "input_token_count": 20,
     "generated_token_count": 150,
-    "time_to_first_token_sec": 0.02570474500043929,
-    "end_to_end_latency_sec": 2.4553714909998234,
-    "throughput_tokens_per_sec": 61.09055210171893
+    "time_to_first_token_sec": 0.02586977200007823,
+    "end_to_end_latency_sec": 2.4558692720002,
+    "throughput_tokens_per_sec": 61.078169636379485
 }
