@@ -7,7 +7,7 @@
     "generated_text": "The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (  AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (",
     "input_token_count": 20,
     "generated_token_count": 150,
-    "time_to_first_token_sec": 0.02583043199996382,
-    "end_to_end_latency_sec": 2.4816172760000086,
-    "throughput_tokens_per_sec": 60.444453482278014
+    "time_to_first_token_sec": 0.025942087999965224,
+    "end_to_end_latency_sec": 2.587863187000039,
+    "throughput_tokens_per_sec": 57.962878699892315
 }
