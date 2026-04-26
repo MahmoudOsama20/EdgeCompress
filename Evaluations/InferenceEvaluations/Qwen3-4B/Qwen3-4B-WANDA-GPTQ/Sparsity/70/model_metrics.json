@@ -1,0 +1,13 @@
+{
+    "model_name": "Qwen3-4B",
+    "compression_method": "WANDA & GPTQ",
+    "model_type": "Pruning & Quantization",
+    "sparsity": 70,
+    "prompt_text": "<|im_start|>user\nProvide a concise explanation of Artificial Intelligence.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generated_text": "The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (  AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (AI) is a complex topic. The concept of Artificial Intelligence (",
+    "input_token_count": 20,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.02827444999999784,
+    "end_to_end_latency_sec": 2.6104655200000053,
+    "throughput_tokens_per_sec": 57.461015612265086
+}
