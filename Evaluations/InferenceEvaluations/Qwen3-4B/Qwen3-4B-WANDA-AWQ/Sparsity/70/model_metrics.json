@@ -1,0 +1,13 @@
+{
+    "model_name": "Qwen3-4B",
+    "compression_method": "WANDA & AWQ",
+    "model_type": "Pruning & Quantization",
+    "sparsity": 70,
+    "prompt_text": "<|im_start|>user\nProvide a concise explanation of Artificial Intelligence.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generated_text": "The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial金 is a complex and detailed explanation. The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial Intelligence is a complex and detailed explanation. The explanation of Artificial Intelligence is",
+    "input_token_count": 20,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.027753523000001223,
+    "end_to_end_latency_sec": 2.4874074500000063,
+    "throughput_tokens_per_sec": 60.30375120087367
+}
