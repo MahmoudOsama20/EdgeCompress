@@ -7,7 +7,7 @@
     "generated_text": "Artificial Intelligence (AI) is the development of computer systems that can perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, perception, and language understanding. AI can be categorized into narrow (or weak) AI, which is designed to perform a specific task, and general (or strong) AI, which is designed to perform any intellectual task that a human can do. AI is a broad field that includes various subfields such as machine learning, natural language processing, computer vision, and robotics. AI has been applied in various fields such as healthcare, finance, transportation, and entertainment. The development of AI has been driven by advances in computing power, data storage, and data processing. The integration of AI with other technologies",
     "input_token_count": 20,
     "generated_token_count": 150,
-    "time_to_first_token_sec": 0.02664283099994691,
-    "end_to_end_latency_sec": 2.4727480959999752,
-    "throughput_tokens_per_sec": 60.66125386675922
+    "time_to_first_token_sec": 0.02960241200003111,
+    "end_to_end_latency_sec": 2.491099499000029,
+    "throughput_tokens_per_sec": 60.21437524282455
 }
