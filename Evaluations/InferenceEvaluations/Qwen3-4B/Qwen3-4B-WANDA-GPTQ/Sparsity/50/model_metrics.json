@@ -7,7 +7,7 @@
     "generated_text": "**Artificial Intelligence (AI)** refers to the ability of machines to perform tasks that typically require human intelligence, such as learning, reasoning, problem solving, and decision making. \n\nAI can be categorized into different types, such as ** Narrow AI** (task-specific) and ** General AI** (human-like intelligence). \n\nIn summary, **Artificial Intelligence** is a branch of computer science that involves creating systems that can perform tasks that require human intelligence. \n\n**Example:** A chatbot that can answer questions, or a machine that can recognize faces. \n\n**In conclusion:** **Artificial Intelligence** is a field that aims to create intelligent systems that can perform tasks that require human intelligence. \n\n**Note:** This is a **general**",
     "input_token_count": 20,
     "generated_token_count": 150,
-    "time_to_first_token_sec": 0.029409825000129786,
-    "end_to_end_latency_sec": 2.583929193000131,
-    "throughput_tokens_per_sec": 58.05112632588783
+    "time_to_first_token_sec": 0.02877574099989033,
+    "end_to_end_latency_sec": 2.568743132999998,
+    "throughput_tokens_per_sec": 58.394316688573355
 }
