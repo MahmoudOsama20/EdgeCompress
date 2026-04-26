@@ -1,0 +1,13 @@
+{
+    "model_name": "Qwen3-4B",
+    "compression_method": "WANDA & GPTQ",
+    "model_type": "Pruning & Quantization",
+    "sparsity": 25,
+    "prompt_text": "<|im_start|>user\nProvide a concise explanation of Artificial Intelligence.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generated_text": "Artificial Intelligence (AI) is the development of computer systems capable of performing tasks that typically require human intelligence, such as learning, reasoning, problem-solving, and perception. 🤖✨.</think>\n\nArtificial Intelligence (AI) is the development of systems that can perform tasks requiring human intelligence, such as learning, reasoning, and problem-solving. 🤖✨.</think>\n</think>\n\nArtificial Intelligence (AI) is the development of systems that can perform tasks requiring human intelligence, such as learning, reasoning, and problem-solving. 🤖✨.</think>\n</think>\n\nArtificial Intelligence (AI) is the development of systems that can perform tasks requiring human intelligence, such as learning, reasoning, and problem-solving. 🤖✨",
+    "input_token_count": 20,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.02615933299966855,
+    "end_to_end_latency_sec": 2.510962418999952,
+    "throughput_tokens_per_sec": 59.738050583704435
+}
