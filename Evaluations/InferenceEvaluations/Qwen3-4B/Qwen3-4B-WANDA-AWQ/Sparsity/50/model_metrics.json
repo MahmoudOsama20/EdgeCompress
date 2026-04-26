@@ -1,0 +1,13 @@
+{
+    "model_name": "Qwen3-4B",
+    "compression_method": "WANDA & AWQ",
+    "model_type": "Pruning & Quantization",
+    "sparsity": 50,
+    "prompt_text": "<|im_start|>user\nProvide a concise explanation of Artificial Intelligence.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generated_text": "**Artificial Intelligence (AI)** is a branch of computer science that focuses on creating **intelligent systems** that can perform tasks that typically require human intelligence.\n\n**Key aspects of AI**:\n\n- **Machine Learning**: Algorithms that learn from data.\n- **Natural Language Processing (NLP)**: Understanding and processing human language.\n- **Computer Vision**: Systems that can process and interpret visual information.\n- **Expert Systems**: Systems that use knowledge to make decisions.\n\n**In summary**, **Artificial Intelligence** is the **ability of a machine to perform tasks** that require human intelligence. It is a **broad field** that includes **machine learning**, **natural language processing**, **computer vision**, and **expert systems**. The **goal",
+    "input_token_count": 20,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.026942443000052663,
+    "end_to_end_latency_sec": 2.5199440670000968,
+    "throughput_tokens_per_sec": 59.525130721877346
+}
