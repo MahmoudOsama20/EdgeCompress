@@ -1,0 +1,12 @@
+{
+    "model_name": "Phi-4-mini-instruct",
+    "compression_method": "AWQ",
+    "model_type": "Quantization",
+    "prompt_text": "<|user|>Provide a concise explanation of Artificial Intelligence.<|end|><|assistant|>",
+    "generated_text": "Artificial Intelligence (AI) refers to the development of computer systems that are capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding. AI systems are designed to process large amounts of data, recognize patterns, and make decisions based on the information they have been trained on. They can be found in various applications, such as virtual assistants, recommendation systems, and autonomous vehicles. AI continues to evolve, with new advancements being made in machine learning, deep learning, and natural language processing. Overall, AI aims to create machines that can perform tasks intelligently and efficiently. \n\nIn summary, Artificial Intelligence is the field of computer science that focuses on creating intelligent machines capable of performing tasks that typically require human",
+    "input_token_count": 11,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.04492572399999517,
+    "end_to_end_latency_sec": 5.395360609000022,
+    "throughput_tokens_per_sec": 27.801663479135094
+}
