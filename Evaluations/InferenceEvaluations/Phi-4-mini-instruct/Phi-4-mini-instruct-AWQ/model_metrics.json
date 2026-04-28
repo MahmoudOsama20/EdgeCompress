@@ -3,10 +3,10 @@
     "compression_method": "AWQ",
     "model_type": "Quantization",
     "prompt_text": "<|user|>Provide a concise explanation of Artificial Intelligence.<|end|><|assistant|>",
-    "generated_text": "Artificial Intelligence (AI) refers to the development of computer systems that are capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding. AI systems are designed to process large amounts of data, recognize patterns, and make decisions based on the information they have been trained on. They can be found in various applications, such as virtual assistants, recommendation systems, and autonomous vehicles. AI continues to evolve, with new advancements being made in machine learning, deep learning, and natural language processing. Overall, AI aims to create machines that can perform tasks intelligently and efficiently. \n\nIn summary, Artificial Intelligence is the field of computer science that focuses on creating intelligent machines capable of performing tasks that typically require human",
+    "generated_text": "Artificial Intelligence (AI) refers to the development of computer systems that are capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding. AI systems are designed to process large amounts of data, recognize patterns, and make decisions based on the information they have been trained on. They can be found in various applications, such as virtual assistants, recommendation systems, and autonomous vehicles. AI continues to evolve, with new advancements being made in machine learning",
     "input_token_count": 11,
-    "generated_token_count": 150,
-    "time_to_first_token_sec": 0.04462920700007089,
-    "end_to_end_latency_sec": 5.5459370039999385,
-    "throughput_tokens_per_sec": 27.046827234390573
+    "generated_token_count": 100,
+    "time_to_first_token_sec": 0.025616881000132707,
+    "end_to_end_latency_sec": 1.8463629909999781,
+    "throughput_tokens_per_sec": 54.16053099387605
 }
