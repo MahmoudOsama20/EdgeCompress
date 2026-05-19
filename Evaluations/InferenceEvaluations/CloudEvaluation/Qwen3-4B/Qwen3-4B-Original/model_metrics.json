@@ -1,0 +1,10 @@
+{
+    "model_name": "Qwen3-4B",
+    "prompt_text": "<|im_start|>user\nProvide a concise explanation of Artificial Intelligence.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generated_text": "Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, problem-solving, perception, and language understanding. AI enables machines to perform tasks that typically require human intelligence, such as recognizing patterns, making decisions, and adapting to new information. It encompasses various subfields, including machine learning, natural language processing, and robotics. The goal of AI is to create systems that can perform complex tasks autonomously or with minimal human intervention. 🤖✨.</think>\n</think>\n\nArtificial Intelligence (AI) is the simulation of human intelligence processes by machines, enabling them to learn, reason, solve problems, and make decisions. It involves creating systems that can perform tasks requiring human-like",
+    "input_token_count": 20,
+    "generated_token_count": 150,
+    "time_to_first_token_sec": 0.03772208100008356,
+    "end_to_end_latency_sec": 2.9247860740000533,
+    "throughput_tokens_per_sec": 51.285802176585875
+}
