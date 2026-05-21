@@ -1,8 +1,0 @@
-{
-    "model_name": "Phi-4-mini-instruct",
-    "input_token_count": 19,
-    "generated_token_count": 150,
-    "ttft_sec": "0.03 ± 0.00",
-    "latency_sec": "2.93 ± 0.22",
-    "throughput_tokens_per_sec": "51.81 ± 3.50"
-}
