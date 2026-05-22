@@ -6,6 +6,6 @@
     "input_token_count": 19,
     "generated_token_count": 150,
     "ttft_sec": "0.03 ± 0.00",
-    "latency_sec": "2.86 ± 0.27",
-    "throughput_tokens_per_sec": "53.05 ± 4.44"
+    "latency_sec": "2.86 ± 0.38",
+    "throughput_tokens_per_sec": "53.43 ± 5.75"
 }
