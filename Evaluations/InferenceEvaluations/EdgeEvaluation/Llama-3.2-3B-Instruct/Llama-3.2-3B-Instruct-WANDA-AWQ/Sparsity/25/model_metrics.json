@@ -6,8 +6,8 @@
     "input_token_count": 50,
     "generated_token_count": 150,
     "ttft_sec": "0.03 ± 0.00",
-    "inference_sec": "2.07 ± 0.00",
-    "latency_sec": "2.07 ± 0.00",
-    "decode_throughput_tokens_per_sec": "72.98 ± 0.11",
-    "overall_throughput_tokens_per_sec": "72.33 ± 0.11"
+    "inference_sec": "2.08 ± 0.01",
+    "latency_sec": "2.08 ± 0.01",
+    "decode_throughput_tokens_per_sec": "72.70 ± 0.42",
+    "overall_throughput_tokens_per_sec": "72.05 ± 0.41"
 }
