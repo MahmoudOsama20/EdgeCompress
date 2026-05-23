@@ -1,0 +1,13 @@
+{
+    "model_name": "Phi-4-mini-instruct",
+    "model_type": "Pruning & Quantization",
+    "compression_method": "WANDA & AWQ",
+    "sparsity": 25,
+    "input_token_count": 19,
+    "generated_token_count": 150,
+    "ttft_sec": "0.03 ± 0.00",
+    "inference_sec": "1.35 ± 0.03",
+    "latency_sec": "1.35 ± 0.03",
+    "decode_throughput_tokens_per_sec": "112.53 ± 2.16",
+    "overall_throughput_tokens_per_sec": "111.08 ± 2.09"
+}
