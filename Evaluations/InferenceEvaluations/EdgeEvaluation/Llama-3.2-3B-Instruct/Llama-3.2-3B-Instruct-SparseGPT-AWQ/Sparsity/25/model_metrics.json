@@ -7,5 +7,5 @@
     "generated_token_count": 150,
     "ttft_sec": "0.03 ± 0.00",
     "latency_sec": "2.05 ± 0.00",
-    "throughput_tokens_per_sec": "73.96 ± 0.06"
+    "throughput_tokens_per_sec": "74.05 ± 0.13"
 }
