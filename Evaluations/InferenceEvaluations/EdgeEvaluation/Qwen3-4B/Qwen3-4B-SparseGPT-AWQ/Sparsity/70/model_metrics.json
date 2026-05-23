@@ -1,0 +1,12 @@
+{
+    "model_name": "Qwen3-4B",
+    "model_type": "Pruning & Quantization",
+    "compression_method": "SparseGPT & AWQ",
+    "input_token_count": 31,
+    "generated_token_count": 150,
+    "ttft_sec": "0.02 ± 0.00",
+    "inference_sec": "2.44 ± 0.01",
+    "latency_sec": "2.44 ± 0.01",
+    "decode_throughput_tokens_per_sec": "61.79 ± 0.14",
+    "overall_throughput_tokens_per_sec": "61.58 ± 0.14"
+}
