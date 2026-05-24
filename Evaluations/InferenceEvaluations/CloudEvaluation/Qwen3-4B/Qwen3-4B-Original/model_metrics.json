@@ -1,0 +1,10 @@
+{
+    "model_name": "Qwen3-4B",
+    "input_token_count": 31,
+    "generated_token_count": 150,
+    "ttft_sec": "0.03 ± 0.00",
+    "inference_sec": "3.58 ± 0.63",
+    "latency_sec": "3.58 ± 0.63",
+    "decode_throughput_tokens_per_sec": "43.31 ± 7.12",
+    "overall_throughput_tokens_per_sec": "43.16 ± 7.04"
+}
