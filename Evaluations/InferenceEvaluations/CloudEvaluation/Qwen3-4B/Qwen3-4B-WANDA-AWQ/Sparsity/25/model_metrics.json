@@ -1,0 +1,13 @@
+{
+    "model_name": "Qwen3-4B",
+    "model_type": "Pruning & Quantization",
+    "compression_method": "WANDA & AWQ",
+    "sparsity": 25,
+    "input_token_count": 31,
+    "generated_token_count": 150,
+    "ttft_sec": "0.03 ± 0.00",
+    "inference_sec": "1.31 ± 0.01",
+    "latency_sec": "1.31 ± 0.01",
+    "decode_throughput_tokens_per_sec": "116.66 ± 1.02",
+    "overall_throughput_tokens_per_sec": "114.94 ± 1.08"
+}
