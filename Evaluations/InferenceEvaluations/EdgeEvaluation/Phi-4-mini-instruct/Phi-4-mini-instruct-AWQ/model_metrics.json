@@ -1,0 +1,12 @@
+{
+    "model_name": "Phi-4-mini-instruct",
+    "model_type": "Quantization",
+    "compression_method": "AWQ",
+    "input_token_count": 19,
+    "generated_token_count": 150,
+    "ttft_sec": "0.04 ± 0.00",
+    "inference_sec": "5.50 ± 0.08",
+    "latency_sec": "5.50 ± 0.08",
+    "decode_throughput_tokens_per_sec": "27.34 ± 0.40",
+    "overall_throughput_tokens_per_sec": "27.30 ± 0.40"
+}
