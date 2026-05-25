@@ -1,0 +1,12 @@
+{
+    "model_name": "Qwen3-4B",
+    "model_type": "Quantization",
+    "compression_method": "GPTQ",
+    "input_token_count": 31,
+    "generated_token_count": 150,
+    "ttft_sec": "0.02 ± 0.00",
+    "inference_sec": "2.31 ± 0.02",
+    "latency_sec": "2.31 ± 0.02",
+    "decode_throughput_tokens_per_sec": "65.27 ± 0.50",
+    "overall_throughput_tokens_per_sec": "65.03 ± 0.49"
+}
