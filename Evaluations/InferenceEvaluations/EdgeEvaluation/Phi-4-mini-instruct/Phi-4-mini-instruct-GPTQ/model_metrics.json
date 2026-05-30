@@ -1,0 +1,12 @@
+{
+    "model_name": "Phi-4-mini-instruct",
+    "model_type": "Quantization",
+    "compression_method": "GPTQ",
+    "input_token_count": 19,
+    "generated_token_count": 150,
+    "ttft_sec": "0.05 ± 0.00",
+    "inference_sec": "5.36 ± 0.02",
+    "latency_sec": "5.36 ± 0.02",
+    "decode_throughput_tokens_per_sec": "28.07 ± 0.12",
+    "overall_throughput_tokens_per_sec": "28.00 ± 0.12"
+}
