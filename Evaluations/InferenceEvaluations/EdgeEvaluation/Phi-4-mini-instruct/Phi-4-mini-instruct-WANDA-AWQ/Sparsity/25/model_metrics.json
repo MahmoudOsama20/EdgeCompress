@@ -5,9 +5,9 @@
     "sparsity": 25,
     "input_token_count": 19,
     "generated_token_count": 150,
-    "ttft_sec": "0.03 ± 0.00",
-    "inference_sec": "2.59 ± 0.07",
-    "latency_sec": "2.59 ± 0.07",
-    "decode_throughput_tokens_per_sec": "58.17 ± 1.57",
-    "overall_throughput_tokens_per_sec": "57.91 ± 1.55"
+    "ttft_sec": "0.04 ± 0.00",
+    "inference_sec": "5.16 ± 0.08",
+    "latency_sec": "5.16 ± 0.08",
+    "decode_throughput_tokens_per_sec": "29.12 ± 0.47",
+    "overall_throughput_tokens_per_sec": "29.07 ± 0.46"
 }
