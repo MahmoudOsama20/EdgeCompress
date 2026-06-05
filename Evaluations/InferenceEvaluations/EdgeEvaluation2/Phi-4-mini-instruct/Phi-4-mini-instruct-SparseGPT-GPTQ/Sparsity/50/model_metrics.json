@@ -1,0 +1,13 @@
+{
+    "model_name": "Phi-4-mini-instruct",
+    "model_type": "Pruning & Quantization",
+    "compression_method": "SparseGPT & GPTQ",
+    "sparsity": 50,
+    "input_token_count": 19,
+    "generated_token_count": 150,
+    "ttft_sec": "0.05 ± 0.00",
+    "inference_sec": "6.48 ± 0.16",
+    "latency_sec": "6.48 ± 0.16",
+    "decode_throughput_tokens_per_sec": "23.18 ± 0.57",
+    "overall_throughput_tokens_per_sec": "23.16 ± 0.57"
+}
