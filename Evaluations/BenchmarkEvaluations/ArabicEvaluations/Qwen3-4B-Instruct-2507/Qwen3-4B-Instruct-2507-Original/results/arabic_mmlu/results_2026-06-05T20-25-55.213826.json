@@ -1,0 +1,2877 @@
+{
+  "results": {
+    "arabicmmlu_driving_test": {
+      "name": "arabicmmlu_driving_test",
+      "alias": "Driving Test",
+      "sample_len": 122,
+      "acc,none": 0.2540983606557377,
+      "acc_stderr,none": 0.03957756102798659
+    },
+    "arabicmmlu_general_knowledge": {
+      "name": "arabicmmlu_general_knowledge",
+      "alias": "General Knowledge",
+      "sample_len": 87,
+      "acc,none": 0.4482758620689655,
+      "acc_stderr,none": 0.053627116270410544
+    },
+    "arabicmmlu_general_knowledge_middle_school": {
+      "name": "arabicmmlu_general_knowledge_middle_school",
+      "alias": "General Knowledge (Middle School)",
+      "sample_len": 18,
+      "acc,none": 0.4444444444444444,
+      "acc_stderr,none": 0.12051692101036454
+    },
+    "arabicmmlu_general_knowledge_primary_school": {
+      "name": "arabicmmlu_general_knowledge_primary_school",
+      "alias": "General Knowledge (Primary School)",
+      "sample_len": 17,
+      "acc,none": 0.5294117647058824,
+      "acc_stderr,none": 0.12478354962115545
+    },
+    "arabicmmlu_management_university": {
+      "name": "arabicmmlu_management_university",
+      "alias": "Management (University)",
+      "sample_len": 8,
+      "acc,none": 0.25,
+      "acc_stderr,none": 0.16366341767699427
+    },
+    "arabicmmlu_accounting_university": {
+      "name": "arabicmmlu_accounting_university",
+      "alias": "Accounting (University)",
+      "sample_len": 8,
+      "acc,none": 0.25,
+      "acc_stderr,none": 0.16366341767699427
+    },
+    "arabicmmlu_civics_high_school": {
+      "name": "arabicmmlu_civics_high_school",
+      "alias": "Civics (High School)",
+      "sample_len": 9,
+      "acc,none": 0.2222222222222222,
+      "acc_stderr,none": 0.1469861839480328
+    },
+    "arabicmmlu_civics_middle_school": {
+      "name": "arabicmmlu_civics_middle_school",
+      "alias": "Civics (Middle School)",
+      "sample_len": 24,
+      "acc,none": 0.20833333333333334,
+      "acc_stderr,none": 0.0846811296559438
+    },
+    "arabicmmlu_economics_high_school": {
+      "name": "arabicmmlu_economics_high_school",
+      "alias": "Economics (High School)",
+      "sample_len": 36,
+      "acc,none": 0.2777777777777778,
+      "acc_stderr,none": 0.07570946042991632
+    },
+    "arabicmmlu_economics_middle_school": {
+      "name": "arabicmmlu_economics_middle_school",
+      "alias": "Economics (Middle School)",
+      "sample_len": 9,
+      "acc,none": 0.4444444444444444,
+      "acc_stderr,none": 0.17568209223157663
+    },
+    "arabicmmlu_economics_university": {
+      "name": "arabicmmlu_economics_university",
+      "alias": "Economics (University)",
+      "sample_len": 14,
+      "acc,none": 0.2857142857142857,
+      "acc_stderr,none": 0.12529400275814703
+    },
+    "arabicmmlu_geography_high_school": {
+      "name": "arabicmmlu_geography_high_school",
+      "alias": "Geography (High School)",
+      "sample_len": 104,
+      "acc,none": 0.4230769230769231,
+      "acc_stderr,none": 0.04867993747918682
+    },
+    "arabicmmlu_geography_middle_school": {
+      "name": "arabicmmlu_geography_middle_school",
+      "alias": "Geography (Middle School)",
+      "sample_len": 28,
+      "acc,none": 0.35714285714285715,
+      "acc_stderr,none": 0.09221388919541469
+    },
+    "arabicmmlu_geography_primary_school": {
+      "name": "arabicmmlu_geography_primary_school",
+      "alias": "Geography (Primary School)",
+      "sample_len": 6,
+      "acc,none": 0.8333333333333334,
+      "acc_stderr,none": 0.16666666666666669
+    },
+    "arabicmmlu_political_science_university": {
+      "name": "arabicmmlu_political_science_university",
+      "alias": "Political Science (University)",
+      "sample_len": 21,
+      "acc,none": 0.5714285714285714,
+      "acc_stderr,none": 0.11065666703449763
+    },
+    "arabicmmlu_social_science_middle_school": {
+      "name": "arabicmmlu_social_science_middle_school",
+      "alias": "Social Science (Middle School)",
+      "sample_len": 25,
+      "acc,none": 0.12,
+      "acc_stderr,none": 0.066332495807108
+    },
+    "arabicmmlu_social_science_primary_school": {
+      "name": "arabicmmlu_social_science_primary_school",
+      "alias": "Social Science (Primary School)",
+      "sample_len": 71,
+      "acc,none": 0.36619718309859156,
+      "acc_stderr,none": 0.05758184314388002
+    },
+    "arabicmmlu_history_high_school": {
+      "name": "arabicmmlu_history_high_school",
+      "alias": "History (High School)",
+      "sample_len": 76,
+      "acc,none": 0.3684210526315789,
+      "acc_stderr,none": 0.055700027601359794
+    },
+    "arabicmmlu_history_middle_school": {
+      "name": "arabicmmlu_history_middle_school",
+      "alias": "History (Middle School)",
+      "sample_len": 21,
+      "acc,none": 0.23809523809523808,
+      "acc_stderr,none": 0.09523809523809523
+    },
+    "arabicmmlu_history_primary_school": {
+      "name": "arabicmmlu_history_primary_school",
+      "alias": "History (Primary School)",
+      "sample_len": 11,
+      "acc,none": 0.36363636363636365,
+      "acc_stderr,none": 0.15212000482437738
+    },
+    "arabicmmlu_islamic_studies": {
+      "name": "arabicmmlu_islamic_studies",
+      "alias": "Islamic Studies",
+      "sample_len": 64,
+      "acc,none": 0.34375,
+      "acc_stderr,none": 0.05983919423477113
+    },
+    "arabicmmlu_islamic_studies_high_school": {
+      "name": "arabicmmlu_islamic_studies_high_school",
+      "alias": "Islamic Studies (High School)",
+      "sample_len": 34,
+      "acc,none": 0.3235294117647059,
+      "acc_stderr,none": 0.08143748885213799
+    },
+    "arabicmmlu_islamic_studies_middle_school": {
+      "name": "arabicmmlu_islamic_studies_middle_school",
+      "alias": "Islamic Studies (Middle School)",
+      "sample_len": 24,
+      "acc,none": 0.25,
+      "acc_stderr,none": 0.09028938981432691
+    },
+    "arabicmmlu_islamic_studies_primary_school": {
+      "name": "arabicmmlu_islamic_studies_primary_school",
+      "alias": "Islamic Studies (Primary School)",
+      "sample_len": 100,
+      "acc,none": 0.54,
+      "acc_stderr,none": 0.05009082659620331
+    },
+    "arabicmmlu_law_professional": {
+      "name": "arabicmmlu_law_professional",
+      "alias": "Law (Professional)",
+      "sample_len": 32,
+      "acc,none": 0.25,
+      "acc_stderr,none": 0.07777137710478188
+    },
+    "arabicmmlu_philosophy_high_school": {
+      "name": "arabicmmlu_philosophy_high_school",
+      "alias": "Philosophy (High School)",
+      "sample_len": 4,
+      "acc,none": 0.0,
+      "acc_stderr,none": 0.0
+    },
+    "arabicmmlu_biology_high_school": {
+      "name": "arabicmmlu_biology_high_school",
+      "alias": "Biology (High School)",
+      "sample_len": 141,
+      "acc,none": 0.2907801418439716,
+      "acc_stderr,none": 0.03838033824696213
+    },
+    "arabicmmlu_computer_science_high_school": {
+      "name": "arabicmmlu_computer_science_high_school",
+      "alias": "Computer Science (High School)",
+      "sample_len": 27,
+      "acc,none": 0.4074074074074074,
+      "acc_stderr,none": 0.09636202008710976
+    },
+    "arabicmmlu_computer_science_middle_school": {
+      "name": "arabicmmlu_computer_science_middle_school",
+      "alias": "Computer Science (Middle School)",
+      "sample_len": 3,
+      "acc,none": 0.6666666666666666,
+      "acc_stderr,none": 0.33333333333333337
+    },
+    "arabicmmlu_computer_science_primary_school": {
+      "name": "arabicmmlu_computer_science_primary_school",
+      "alias": "Computer Science (Primary School)",
+      "sample_len": 19,
+      "acc,none": 0.7368421052631579,
+      "acc_stderr,none": 0.10379087338771255
+    },
+    "arabicmmlu_computer_science_university": {
+      "name": "arabicmmlu_computer_science_university",
+      "alias": "Computer Science (University)",
+      "sample_len": 7,
+      "acc,none": 0.42857142857142855,
+      "acc_stderr,none": 0.20203050891044214
+    },
+    "arabicmmlu_math_primary_school": {
+      "name": "arabicmmlu_math_primary_school",
+      "alias": "Math (Primary School)",
+      "sample_len": 41,
+      "acc,none": 0.2682926829268293,
+      "acc_stderr,none": 0.07005564203095158
+    },
+    "arabicmmlu_natural_science_middle_school": {
+      "name": "arabicmmlu_natural_science_middle_school",
+      "alias": "Natural Science (Middle School)",
+      "sample_len": 25,
+      "acc,none": 0.32,
+      "acc_stderr,none": 0.09521904571390466
+    },
+    "arabicmmlu_natural_science_primary_school": {
+      "name": "arabicmmlu_natural_science_primary_school",
+      "alias": "Natural Science (Primary School)",
+      "sample_len": 34,
+      "acc,none": 0.35294117647058826,
+      "acc_stderr,none": 0.08318903308077029
+    },
+    "arabicmmlu_physics_high_school": {
+      "name": "arabicmmlu_physics_high_school",
+      "alias": "Physics (High School)",
+      "sample_len": 26,
+      "acc,none": 0.3076923076923077,
+      "acc_stderr,none": 0.09230769230769231
+    },
+    "arabicmmlu_arabic_language_general": {
+      "name": "arabicmmlu_arabic_language_general",
+      "alias": "Arabic Language (General)",
+      "sample_len": 62,
+      "acc,none": 0.3387096774193548,
+      "acc_stderr,none": 0.060596141174796975
+    },
+    "arabicmmlu_arabic_language_grammar": {
+      "name": "arabicmmlu_arabic_language_grammar",
+      "alias": "Arabic Language (Grammar)",
+      "sample_len": 37,
+      "acc,none": 0.35135135135135137,
+      "acc_stderr,none": 0.07956541321016079
+    },
+    "arabicmmlu_arabic_language_high_school": {
+      "name": "arabicmmlu_arabic_language_high_school",
+      "alias": "Arabic Language (High School)",
+      "sample_len": 39,
+      "acc,none": 0.2564102564102564,
+      "acc_stderr,none": 0.07083413480167725
+    },
+    "arabicmmlu_arabic_language_middle_school": {
+      "name": "arabicmmlu_arabic_language_middle_school",
+      "alias": "Arabic Language (Middle School)",
+      "sample_len": 3,
+      "acc,none": 0.3333333333333333,
+      "acc_stderr,none": 0.33333333333333337
+    },
+    "arabicmmlu_arabic_language_primary_school": {
+      "name": "arabicmmlu_arabic_language_primary_school",
+      "alias": "Arabic Language (Primary School)",
+      "sample_len": 26,
+      "acc,none": 0.46153846153846156,
+      "acc_stderr,none": 0.09970370305242862
+    },
+    "arabicmmlu_other": {
+      "alias": "Other",
+      "name": "arabicmmlu_other",
+      "sample_len": 252,
+      "acc,none": 0.3531746031746032,
+      "acc_stderr,none": 0.029677034004356076,
+      "sample_count": {
+        "acc,none": 252
+      }
+    },
+    "arabicmmlu_social_science": {
+      "alias": "Social Science",
+      "name": "arabicmmlu_social_science",
+      "sample_len": 355,
+      "acc,none": 0.35774647887323946,
+      "acc_stderr,none": 0.02501980108853785,
+      "sample_count": {
+        "acc,none": 355
+      }
+    },
+    "arabicmmlu_humanities": {
+      "alias": "Humanities",
+      "name": "arabicmmlu_humanities",
+      "sample_len": 366,
+      "acc,none": 0.3770491803278688,
+      "acc_stderr,none": 0.024937795191156208,
+      "sample_count": {
+        "acc,none": 366
+      }
+    },
+    "arabicmmlu_stem": {
+      "alias": "STEM",
+      "name": "arabicmmlu_stem",
+      "sample_len": 323,
+      "acc,none": 0.34055727554179566,
+      "acc_stderr,none": 0.025979584395744118,
+      "sample_count": {
+        "acc,none": 323
+      }
+    },
+    "arabicmmlu_language": {
+      "alias": "Language",
+      "name": "arabicmmlu_language",
+      "sample_len": 167,
+      "acc,none": 0.3413173652694611,
+      "acc_stderr,none": 0.036923349907830375,
+      "sample_count": {
+        "acc,none": 167
+      }
+    },
+    "arabicmmlu": {
+      "alias": "arabicmmlu",
+      "name": "arabicmmlu",
+      "sample_len": 1463,
+      "acc,none": 0.35611756664388244,
+      "acc_stderr,none": 0.012352138679983733,
+      "sample_count": {
+        "acc,none": 1463
+      }
+    }
+  },
+  "groups": {
+    "arabicmmlu_other": {
+      "alias": "Other",
+      "name": "arabicmmlu_other",
+      "sample_len": 252,
+      "acc,none": 0.3531746031746032,
+      "acc_stderr,none": 0.029677034004356076,
+      "sample_count": {
+        "acc,none": 252
+      }
+    },
+    "arabicmmlu_social_science": {
+      "alias": "Social Science",
+      "name": "arabicmmlu_social_science",
+      "sample_len": 355,
+      "acc,none": 0.35774647887323946,
+      "acc_stderr,none": 0.02501980108853785,
+      "sample_count": {
+        "acc,none": 355
+      }
+    },
+    "arabicmmlu_humanities": {
+      "alias": "Humanities",
+      "name": "arabicmmlu_humanities",
+      "sample_len": 366,
+      "acc,none": 0.3770491803278688,
+      "acc_stderr,none": 0.024937795191156208,
+      "sample_count": {
+        "acc,none": 366
+      }
+    },
+    "arabicmmlu_stem": {
+      "alias": "STEM",
+      "name": "arabicmmlu_stem",
+      "sample_len": 323,
+      "acc,none": 0.34055727554179566,
+      "acc_stderr,none": 0.025979584395744118,
+      "sample_count": {
+        "acc,none": 323
+      }
+    },
+    "arabicmmlu_language": {
+      "alias": "Language",
+      "name": "arabicmmlu_language",
+      "sample_len": 167,
+      "acc,none": 0.3413173652694611,
+      "acc_stderr,none": 0.036923349907830375,
+      "sample_count": {
+        "acc,none": 167
+      }
+    },
+    "arabicmmlu": {
+      "alias": "arabicmmlu",
+      "name": "arabicmmlu",
+      "sample_len": 1463,
+      "acc,none": 0.35611756664388244,
+      "acc_stderr,none": 0.012352138679983733,
+      "sample_count": {
+        "acc,none": 1463
+      }
+    }
+  },
+  "group_subtasks": {
+    "arabicmmlu": [
+      "arabicmmlu_other",
+      "arabicmmlu_social_science",
+      "arabicmmlu_humanities",
+      "arabicmmlu_stem",
+      "arabicmmlu_language"
+    ],
+    "arabicmmlu_other": [
+      "arabicmmlu_driving_test",
+      "arabicmmlu_general_knowledge",
+      "arabicmmlu_general_knowledge_middle_school",
+      "arabicmmlu_general_knowledge_primary_school",
+      "arabicmmlu_management_university"
+    ],
+    "arabicmmlu_social_science": [
+      "arabicmmlu_accounting_university",
+      "arabicmmlu_civics_high_school",
+      "arabicmmlu_civics_middle_school",
+      "arabicmmlu_economics_high_school",
+      "arabicmmlu_economics_middle_school",
+      "arabicmmlu_economics_university",
+      "arabicmmlu_geography_high_school",
+      "arabicmmlu_geography_middle_school",
+      "arabicmmlu_geography_primary_school",
+      "arabicmmlu_political_science_university",
+      "arabicmmlu_social_science_middle_school",
+      "arabicmmlu_social_science_primary_school"
+    ],
+    "arabicmmlu_humanities": [
+      "arabicmmlu_history_high_school",
+      "arabicmmlu_history_middle_school",
+      "arabicmmlu_history_primary_school",
+      "arabicmmlu_islamic_studies",
+      "arabicmmlu_islamic_studies_high_school",
+      "arabicmmlu_islamic_studies_middle_school",
+      "arabicmmlu_islamic_studies_primary_school",
+      "arabicmmlu_law_professional",
+      "arabicmmlu_philosophy_high_school"
+    ],
+    "arabicmmlu_stem": [
+      "arabicmmlu_biology_high_school",
+      "arabicmmlu_computer_science_high_school",
+      "arabicmmlu_computer_science_middle_school",
+      "arabicmmlu_computer_science_primary_school",
+      "arabicmmlu_computer_science_university",
+      "arabicmmlu_math_primary_school",
+      "arabicmmlu_natural_science_middle_school",
+      "arabicmmlu_natural_science_primary_school",
+      "arabicmmlu_physics_high_school"
+    ],
+    "arabicmmlu_language": [
+      "arabicmmlu_arabic_language_general",
+      "arabicmmlu_arabic_language_grammar",
+      "arabicmmlu_arabic_language_high_school",
+      "arabicmmlu_arabic_language_middle_school",
+      "arabicmmlu_arabic_language_primary_school"
+    ]
+  },
+  "configs": {
+    "arabicmmlu_accounting_university": {
+      "task": "arabicmmlu_accounting_university",
+      "task_alias": "Accounting (University)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Accounting (University)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_accounting_university.yaml"
+      }
+    },
+    "arabicmmlu_arabic_language_general": {
+      "task": "arabicmmlu_arabic_language_general",
+      "task_alias": "Arabic Language (General)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Arabic Language (General)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_arabic_language_general.yaml"
+      }
+    },
+    "arabicmmlu_arabic_language_grammar": {
+      "task": "arabicmmlu_arabic_language_grammar",
+      "task_alias": "Arabic Language (Grammar)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Arabic Language (Grammar)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_arabic_language_grammar.yaml"
+      }
+    },
+    "arabicmmlu_arabic_language_high_school": {
+      "task": "arabicmmlu_arabic_language_high_school",
+      "task_alias": "Arabic Language (High School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Arabic Language (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_arabic_language_high_school.yaml"
+      }
+    },
+    "arabicmmlu_arabic_language_middle_school": {
+      "task": "arabicmmlu_arabic_language_middle_school",
+      "task_alias": "Arabic Language (Middle School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Arabic Language (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_arabic_language_middle_school.yaml"
+      }
+    },
+    "arabicmmlu_arabic_language_primary_school": {
+      "task": "arabicmmlu_arabic_language_primary_school",
+      "task_alias": "Arabic Language (Primary School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Arabic Language (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_arabic_language_primary_school.yaml"
+      }
+    },
+    "arabicmmlu_biology_high_school": {
+      "task": "arabicmmlu_biology_high_school",
+      "task_alias": "Biology (High School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Biology (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_biology_high_school.yaml"
+      }
+    },
+    "arabicmmlu_civics_high_school": {
+      "task": "arabicmmlu_civics_high_school",
+      "task_alias": "Civics (High School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Civics (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_civics_high_school.yaml"
+      }
+    },
+    "arabicmmlu_civics_middle_school": {
+      "task": "arabicmmlu_civics_middle_school",
+      "task_alias": "Civics (Middle School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Civics (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_civics_middle_school.yaml"
+      }
+    },
+    "arabicmmlu_computer_science_high_school": {
+      "task": "arabicmmlu_computer_science_high_school",
+      "task_alias": "Computer Science (High School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Computer Science (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_computer_science_high_school.yaml"
+      }
+    },
+    "arabicmmlu_computer_science_middle_school": {
+      "task": "arabicmmlu_computer_science_middle_school",
+      "task_alias": "Computer Science (Middle School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Computer Science (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_computer_science_middle_school.yaml"
+      }
+    },
+    "arabicmmlu_computer_science_primary_school": {
+      "task": "arabicmmlu_computer_science_primary_school",
+      "task_alias": "Computer Science (Primary School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Computer Science (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_computer_science_primary_school.yaml"
+      }
+    },
+    "arabicmmlu_computer_science_university": {
+      "task": "arabicmmlu_computer_science_university",
+      "task_alias": "Computer Science (University)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Computer Science (University)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_computer_science_university.yaml"
+      }
+    },
+    "arabicmmlu_driving_test": {
+      "task": "arabicmmlu_driving_test",
+      "task_alias": "Driving Test",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Driving Test",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_driving_test.yaml"
+      }
+    },
+    "arabicmmlu_economics_high_school": {
+      "task": "arabicmmlu_economics_high_school",
+      "task_alias": "Economics (High School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Economics (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_economics_high_school.yaml"
+      }
+    },
+    "arabicmmlu_economics_middle_school": {
+      "task": "arabicmmlu_economics_middle_school",
+      "task_alias": "Economics (Middle School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Economics (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_economics_middle_school.yaml"
+      }
+    },
+    "arabicmmlu_economics_university": {
+      "task": "arabicmmlu_economics_university",
+      "task_alias": "Economics (University)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Economics (University)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_economics_university.yaml"
+      }
+    },
+    "arabicmmlu_general_knowledge": {
+      "task": "arabicmmlu_general_knowledge",
+      "task_alias": "General Knowledge",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "General Knowledge",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_general_knowledge.yaml"
+      }
+    },
+    "arabicmmlu_general_knowledge_middle_school": {
+      "task": "arabicmmlu_general_knowledge_middle_school",
+      "task_alias": "General Knowledge (Middle School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "General Knowledge (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_general_knowledge_middle_school.yaml"
+      }
+    },
+    "arabicmmlu_general_knowledge_primary_school": {
+      "task": "arabicmmlu_general_knowledge_primary_school",
+      "task_alias": "General Knowledge (Primary School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "General Knowledge (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_general_knowledge_primary_school.yaml"
+      }
+    },
+    "arabicmmlu_geography_high_school": {
+      "task": "arabicmmlu_geography_high_school",
+      "task_alias": "Geography (High School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Geography (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_geography_high_school.yaml"
+      }
+    },
+    "arabicmmlu_geography_middle_school": {
+      "task": "arabicmmlu_geography_middle_school",
+      "task_alias": "Geography (Middle School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Geography (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_geography_middle_school.yaml"
+      }
+    },
+    "arabicmmlu_geography_primary_school": {
+      "task": "arabicmmlu_geography_primary_school",
+      "task_alias": "Geography (Primary School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Geography (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_geography_primary_school.yaml"
+      }
+    },
+    "arabicmmlu_history_high_school": {
+      "task": "arabicmmlu_history_high_school",
+      "task_alias": "History (High School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "History (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_history_high_school.yaml"
+      }
+    },
+    "arabicmmlu_history_middle_school": {
+      "task": "arabicmmlu_history_middle_school",
+      "task_alias": "History (Middle School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "History (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_history_middle_school.yaml"
+      }
+    },
+    "arabicmmlu_history_primary_school": {
+      "task": "arabicmmlu_history_primary_school",
+      "task_alias": "History (Primary School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "History (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_history_primary_school.yaml"
+      }
+    },
+    "arabicmmlu_islamic_studies": {
+      "task": "arabicmmlu_islamic_studies",
+      "task_alias": "Islamic Studies",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Islamic Studies",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_islamic_studies.yaml"
+      }
+    },
+    "arabicmmlu_islamic_studies_high_school": {
+      "task": "arabicmmlu_islamic_studies_high_school",
+      "task_alias": "Islamic Studies (High School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Islamic Studies (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_islamic_studies_high_school.yaml"
+      }
+    },
+    "arabicmmlu_islamic_studies_middle_school": {
+      "task": "arabicmmlu_islamic_studies_middle_school",
+      "task_alias": "Islamic Studies (Middle School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Islamic Studies (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_islamic_studies_middle_school.yaml"
+      }
+    },
+    "arabicmmlu_islamic_studies_primary_school": {
+      "task": "arabicmmlu_islamic_studies_primary_school",
+      "task_alias": "Islamic Studies (Primary School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Islamic Studies (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_islamic_studies_primary_school.yaml"
+      }
+    },
+    "arabicmmlu_law_professional": {
+      "task": "arabicmmlu_law_professional",
+      "task_alias": "Law (Professional)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Law (Professional)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_law_professional.yaml"
+      }
+    },
+    "arabicmmlu_management_university": {
+      "task": "arabicmmlu_management_university",
+      "task_alias": "Management (University)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Management (University)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_management_university.yaml"
+      }
+    },
+    "arabicmmlu_math_primary_school": {
+      "task": "arabicmmlu_math_primary_school",
+      "task_alias": "Math (Primary School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Math (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_math_primary_school.yaml"
+      }
+    },
+    "arabicmmlu_natural_science_middle_school": {
+      "task": "arabicmmlu_natural_science_middle_school",
+      "task_alias": "Natural Science (Middle School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Natural Science (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_natural_science_middle_school.yaml"
+      }
+    },
+    "arabicmmlu_natural_science_primary_school": {
+      "task": "arabicmmlu_natural_science_primary_school",
+      "task_alias": "Natural Science (Primary School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Natural Science (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_natural_science_primary_school.yaml"
+      }
+    },
+    "arabicmmlu_philosophy_high_school": {
+      "task": "arabicmmlu_philosophy_high_school",
+      "task_alias": "Philosophy (High School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Philosophy (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_philosophy_high_school.yaml"
+      }
+    },
+    "arabicmmlu_physics_high_school": {
+      "task": "arabicmmlu_physics_high_school",
+      "task_alias": "Physics (High School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Physics (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_physics_high_school.yaml"
+      }
+    },
+    "arabicmmlu_political_science_university": {
+      "task": "arabicmmlu_political_science_university",
+      "task_alias": "Political Science (University)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Political Science (University)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_political_science_university.yaml"
+      }
+    },
+    "arabicmmlu_social_science_middle_school": {
+      "task": "arabicmmlu_social_science_middle_school",
+      "task_alias": "Social Science (Middle School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Social Science (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_social_science_middle_school.yaml"
+      }
+    },
+    "arabicmmlu_social_science_primary_school": {
+      "task": "arabicmmlu_social_science_primary_school",
+      "task_alias": "Social Science (Primary School)",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Social Science (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n",
+        "split": "dev",
+        "process_docs": null,
+        "fewshot_indices": null,
+        "samples": null,
+        "doc_to_text": "<function doc_to_text at 0x77fb60a3afc0>",
+        "doc_to_choice": "<function doc_to_choice at 0x77fb60a3b100>",
+        "doc_to_target": "Answer Key",
+        "gen_prefix": null,
+        "fewshot_delimiter": "\n\n",
+        "target_delimiter": " "
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+        "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+        "dtype": "float16",
+        "parallelize": true,
+        "max_length": 4096,
+        "config_source": "/usr/local/lib/python3.12/dist-packages/lm_eval/tasks/arabicmmlu/arabicmmlu_social_science_primary_school.yaml"
+      }
+    }
+  },
+  "versions": {
+    "arabicmmlu": "1",
+    "arabicmmlu_accounting_university": 1.0,
+    "arabicmmlu_arabic_language_general": 1.0,
+    "arabicmmlu_arabic_language_grammar": 1.0,
+    "arabicmmlu_arabic_language_high_school": 1.0,
+    "arabicmmlu_arabic_language_middle_school": 1.0,
+    "arabicmmlu_arabic_language_primary_school": 1.0,
+    "arabicmmlu_biology_high_school": 1.0,
+    "arabicmmlu_civics_high_school": 1.0,
+    "arabicmmlu_civics_middle_school": 1.0,
+    "arabicmmlu_computer_science_high_school": 1.0,
+    "arabicmmlu_computer_science_middle_school": 1.0,
+    "arabicmmlu_computer_science_primary_school": 1.0,
+    "arabicmmlu_computer_science_university": 1.0,
+    "arabicmmlu_driving_test": 1.0,
+    "arabicmmlu_economics_high_school": 1.0,
+    "arabicmmlu_economics_middle_school": 1.0,
+    "arabicmmlu_economics_university": 1.0,
+    "arabicmmlu_general_knowledge": 1.0,
+    "arabicmmlu_general_knowledge_middle_school": 1.0,
+    "arabicmmlu_general_knowledge_primary_school": 1.0,
+    "arabicmmlu_geography_high_school": 1.0,
+    "arabicmmlu_geography_middle_school": 1.0,
+    "arabicmmlu_geography_primary_school": 1.0,
+    "arabicmmlu_history_high_school": 1.0,
+    "arabicmmlu_history_middle_school": 1.0,
+    "arabicmmlu_history_primary_school": 1.0,
+    "arabicmmlu_humanities": "1",
+    "arabicmmlu_islamic_studies": 1.0,
+    "arabicmmlu_islamic_studies_high_school": 1.0,
+    "arabicmmlu_islamic_studies_middle_school": 1.0,
+    "arabicmmlu_islamic_studies_primary_school": 1.0,
+    "arabicmmlu_language": "1",
+    "arabicmmlu_law_professional": 1.0,
+    "arabicmmlu_management_university": 1.0,
+    "arabicmmlu_math_primary_school": 1.0,
+    "arabicmmlu_natural_science_middle_school": 1.0,
+    "arabicmmlu_natural_science_primary_school": 1.0,
+    "arabicmmlu_other": "1",
+    "arabicmmlu_philosophy_high_school": 1.0,
+    "arabicmmlu_physics_high_school": 1.0,
+    "arabicmmlu_political_science_university": 1.0,
+    "arabicmmlu_social_science": "1",
+    "arabicmmlu_social_science_middle_school": 1.0,
+    "arabicmmlu_social_science_primary_school": 1.0,
+    "arabicmmlu_stem": "1"
+  },
+  "n-shot": {
+    "arabicmmlu_accounting_university": 0,
+    "arabicmmlu_arabic_language_general": 0,
+    "arabicmmlu_arabic_language_grammar": 0,
+    "arabicmmlu_arabic_language_high_school": 0,
+    "arabicmmlu_arabic_language_middle_school": 0,
+    "arabicmmlu_arabic_language_primary_school": 0,
+    "arabicmmlu_biology_high_school": 0,
+    "arabicmmlu_civics_high_school": 0,
+    "arabicmmlu_civics_middle_school": 0,
+    "arabicmmlu_computer_science_high_school": 0,
+    "arabicmmlu_computer_science_middle_school": 0,
+    "arabicmmlu_computer_science_primary_school": 0,
+    "arabicmmlu_computer_science_university": 0,
+    "arabicmmlu_driving_test": 0,
+    "arabicmmlu_economics_high_school": 0,
+    "arabicmmlu_economics_middle_school": 0,
+    "arabicmmlu_economics_university": 0,
+    "arabicmmlu_general_knowledge": 0,
+    "arabicmmlu_general_knowledge_middle_school": 0,
+    "arabicmmlu_general_knowledge_primary_school": 0,
+    "arabicmmlu_geography_high_school": 0,
+    "arabicmmlu_geography_middle_school": 0,
+    "arabicmmlu_geography_primary_school": 0,
+    "arabicmmlu_history_high_school": 0,
+    "arabicmmlu_history_middle_school": 0,
+    "arabicmmlu_history_primary_school": 0,
+    "arabicmmlu_humanities": 0,
+    "arabicmmlu_islamic_studies": 0,
+    "arabicmmlu_islamic_studies_high_school": 0,
+    "arabicmmlu_islamic_studies_middle_school": 0,
+    "arabicmmlu_islamic_studies_primary_school": 0,
+    "arabicmmlu_language": 0,
+    "arabicmmlu_law_professional": 0,
+    "arabicmmlu_management_university": 0,
+    "arabicmmlu_math_primary_school": 0,
+    "arabicmmlu_natural_science_middle_school": 0,
+    "arabicmmlu_natural_science_primary_school": 0,
+    "arabicmmlu_other": 0,
+    "arabicmmlu_philosophy_high_school": 0,
+    "arabicmmlu_physics_high_school": 0,
+    "arabicmmlu_political_science_university": 0,
+    "arabicmmlu_social_science": 0,
+    "arabicmmlu_social_science_middle_school": 0,
+    "arabicmmlu_social_science_primary_school": 0,
+    "arabicmmlu_stem": 0
+  },
+  "higher_is_better": {
+    "arabicmmlu_accounting_university": {
+      "acc": true
+    },
+    "arabicmmlu_arabic_language_general": {
+      "acc": true
+    },
+    "arabicmmlu_arabic_language_grammar": {
+      "acc": true
+    },
+    "arabicmmlu_arabic_language_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_arabic_language_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_arabic_language_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_biology_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_civics_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_civics_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_computer_science_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_computer_science_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_computer_science_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_computer_science_university": {
+      "acc": true
+    },
+    "arabicmmlu_driving_test": {
+      "acc": true
+    },
+    "arabicmmlu_economics_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_economics_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_economics_university": {
+      "acc": true
+    },
+    "arabicmmlu_general_knowledge": {
+      "acc": true
+    },
+    "arabicmmlu_general_knowledge_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_general_knowledge_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_geography_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_geography_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_geography_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_history_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_history_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_history_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_humanities": {
+      "acc": true
+    },
+    "arabicmmlu_islamic_studies": {
+      "acc": true
+    },
+    "arabicmmlu_islamic_studies_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_islamic_studies_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_islamic_studies_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_language": {
+      "acc": true
+    },
+    "arabicmmlu_law_professional": {
+      "acc": true
+    },
+    "arabicmmlu_management_university": {
+      "acc": true
+    },
+    "arabicmmlu_math_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_natural_science_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_natural_science_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_other": {
+      "acc": true
+    },
+    "arabicmmlu_philosophy_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_physics_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_political_science_university": {
+      "acc": true
+    },
+    "arabicmmlu_social_science": {
+      "acc": true
+    },
+    "arabicmmlu_social_science_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_social_science_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_stem": {
+      "acc": true
+    }
+  },
+  "n-samples": {
+    "arabicmmlu_driving_test": {
+      "original": 1211,
+      "effective": 122
+    },
+    "arabicmmlu_general_knowledge": {
+      "original": 864,
+      "effective": 87
+    },
+    "arabicmmlu_general_knowledge_middle_school": {
+      "original": 172,
+      "effective": 18
+    },
+    "arabicmmlu_general_knowledge_primary_school": {
+      "original": 162,
+      "effective": 17
+    },
+    "arabicmmlu_management_university": {
+      "original": 75,
+      "effective": 8
+    },
+    "arabicmmlu_accounting_university": {
+      "original": 74,
+      "effective": 8
+    },
+    "arabicmmlu_civics_high_school": {
+      "original": 87,
+      "effective": 9
+    },
+    "arabicmmlu_civics_middle_school": {
+      "original": 236,
+      "effective": 24
+    },
+    "arabicmmlu_economics_high_school": {
+      "original": 360,
+      "effective": 36
+    },
+    "arabicmmlu_economics_middle_school": {
+      "original": 87,
+      "effective": 9
+    },
+    "arabicmmlu_economics_university": {
+      "original": 137,
+      "effective": 14
+    },
+    "arabicmmlu_geography_high_school": {
+      "original": 1038,
+      "effective": 104
+    },
+    "arabicmmlu_geography_middle_school": {
+      "original": 272,
+      "effective": 28
+    },
+    "arabicmmlu_geography_primary_school": {
+      "original": 57,
+      "effective": 6
+    },
+    "arabicmmlu_political_science_university": {
+      "original": 210,
+      "effective": 21
+    },
+    "arabicmmlu_social_science_middle_school": {
+      "original": 241,
+      "effective": 25
+    },
+    "arabicmmlu_social_science_primary_school": {
+      "original": 705,
+      "effective": 71
+    },
+    "arabicmmlu_history_high_school": {
+      "original": 760,
+      "effective": 76
+    },
+    "arabicmmlu_history_middle_school": {
+      "original": 203,
+      "effective": 21
+    },
+    "arabicmmlu_history_primary_school": {
+      "original": 102,
+      "effective": 11
+    },
+    "arabicmmlu_islamic_studies": {
+      "original": 639,
+      "effective": 64
+    },
+    "arabicmmlu_islamic_studies_high_school": {
+      "original": 334,
+      "effective": 34
+    },
+    "arabicmmlu_islamic_studies_middle_school": {
+      "original": 238,
+      "effective": 24
+    },
+    "arabicmmlu_islamic_studies_primary_school": {
+      "original": 999,
+      "effective": 100
+    },
+    "arabicmmlu_law_professional": {
+      "original": 314,
+      "effective": 32
+    },
+    "arabicmmlu_philosophy_high_school": {
+      "original": 39,
+      "effective": 4
+    },
+    "arabicmmlu_biology_high_school": {
+      "original": 1409,
+      "effective": 141
+    },
+    "arabicmmlu_computer_science_high_school": {
+      "original": 261,
+      "effective": 27
+    },
+    "arabicmmlu_computer_science_middle_school": {
+      "original": 27,
+      "effective": 3
+    },
+    "arabicmmlu_computer_science_primary_school": {
+      "original": 190,
+      "effective": 19
+    },
+    "arabicmmlu_computer_science_university": {
+      "original": 64,
+      "effective": 7
+    },
+    "arabicmmlu_math_primary_school": {
+      "original": 409,
+      "effective": 41
+    },
+    "arabicmmlu_natural_science_middle_school": {
+      "original": 242,
+      "effective": 25
+    },
+    "arabicmmlu_natural_science_primary_school": {
+      "original": 336,
+      "effective": 34
+    },
+    "arabicmmlu_physics_high_school": {
+      "original": 255,
+      "effective": 26
+    },
+    "arabicmmlu_arabic_language_general": {
+      "original": 612,
+      "effective": 62
+    },
+    "arabicmmlu_arabic_language_grammar": {
+      "original": 365,
+      "effective": 37
+    },
+    "arabicmmlu_arabic_language_high_school": {
+      "original": 390,
+      "effective": 39
+    },
+    "arabicmmlu_arabic_language_middle_school": {
+      "original": 27,
+      "effective": 3
+    },
+    "arabicmmlu_arabic_language_primary_school": {
+      "original": 252,
+      "effective": 26
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": {
+      "pretrained": "Qwen/Qwen3-4B-Instruct-2507",
+      "tokenizer": "Qwen/Qwen3-4B-Instruct-2507",
+      "dtype": "float16",
+      "parallelize": true,
+      "max_length": 4096
+    },
+    "model_num_parameters": 4022468096,
+    "model_dtype": "torch.float16",
+    "model_revision": "main",
+    "model_sha": "cdbee75f17c01a7cc42f958dc650907174af0554",
+    "batch_size": "2",
+    "batch_sizes": [],
+    "device": "cuda:0",
+    "use_cache": null,
+    "limit": 0.1,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": {},
+    "random_seed": 42,
+    "numpy_seed": 42,
+    "torch_seed": 42,
+    "fewshot_seed": 42
+  },
+  "git_hash": null,
+  "date": 1780690952.8910553,
+  "pretty_env_info": "PyTorch version: 2.10.0+cu128\nIs debug build: False\nCUDA used to build PyTorch: 12.8\nROCM used to build PyTorch: N/A\n\nOS: Ubuntu 22.04.5 LTS (x86_64)\nGCC version: (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0\nClang version: Could not collect\nCMake version: version 3.31.10\nLibc version: glibc-2.35\n\nPython version: 3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0] (64-bit runtime)\nPython platform: Linux-6.6.122+-x86_64-with-glibc2.35\nIs CUDA available: True\nCUDA runtime version: 12.8.93\nCUDA_MODULE_LOADING set to: \nGPU models and configuration: \nGPU 0: Tesla T4\nGPU 1: Tesla T4\n\nNvidia driver version: 580.105.08\ncuDNN version: Probably one of the following:\n/usr/lib/x86_64-linux-gnu/libcudnn.so.9.8.0\n/usr/lib/x86_64-linux-gnu/libcudnn_adv.so.9.8.0\n/usr/lib/x86_64-linux-gnu/libcudnn_cnn.so.9.8.0\n/usr/lib/x86_64-linux-gnu/libcudnn_engines_precompiled.so.9.8.0\n/usr/lib/x86_64-linux-gnu/libcudnn_engines_runtime_compiled.so.9.8.0\n/usr/lib/x86_64-linux-gnu/libcudnn_graph.so.9.8.0\n/usr/lib/x86_64-linux-gnu/libcudnn_heuristic.so.9.8.0\n/usr/lib/x86_64-linux-gnu/libcudnn_ops.so.9.8.0\nIs XPU available: False\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\nCaching allocator config: N/A\n\nCPU:\nArchitecture:                            x86_64\nCPU op-mode(s):                          32-bit, 64-bit\nAddress sizes:                           46 bits physical, 48 bits virtual\nByte Order:                              Little Endian\nCPU(s):                                  4\nOn-line CPU(s) list:                     0-3\nVendor ID:                               GenuineIntel\nModel name:                              Intel(R) Xeon(R) CPU @ 2.00GHz\nCPU family:                              6\nModel:                                   85\nThread(s) per core:                      2\nCore(s) per socket:                      2\nSocket(s):                               1\nStepping:                                3\nBogoMIPS:                                4000.38\nFlags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx avx512f avx512dq rdseed adx smap clflushopt clwb avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves arat md_clear arch_capabilities\nHypervisor vendor:                       KVM\nVirtualization type:                     full\nL1d cache:                               64 KiB (2 instances)\nL1i cache:                               64 KiB (2 instances)\nL2 cache:                                2 MiB (2 instances)\nL3 cache:                                38.5 MiB (1 instance)\nNUMA node(s):                            1\nNUMA node0 CPU(s):                       0-3\nVulnerability Gather data sampling:      Not affected\nVulnerability Indirect target selection: Mitigation; Aligned branch/return thunks\nVulnerability Itlb multihit:             Not affected\nVulnerability L1tf:                      Mitigation; PTE Inversion\nVulnerability Mds:                       Mitigation; Clear CPU buffers; SMT Host state unknown\nVulnerability Meltdown:                  Mitigation; PTI\nVulnerability Mmio stale data:           Vulnerable: Clear CPU buffers attempted, no microcode; SMT Host state unknown\nVulnerability Reg file data sampling:    Not affected\nVulnerability Retbleed:                  Mitigation; IBRS\nVulnerability Spec rstack overflow:      Not affected\nVulnerability Spec store bypass:         Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:                Mitigation; IBRS; IBPB conditional; STIBP conditional; RSB filling; PBRSB-eIBRS Not affected; BHI SW loop, KVM SW loop\nVulnerability Srbds:                     Not affected\nVulnerability Tsa:                       Not affected\nVulnerability Tsx async abort:           Mitigation; Clear CPU buffers; SMT Host state unknown\nVulnerability Vmscape:                   Not affected\n\nVersions of relevant libraries:\n[pip3] intel-cmplr-lib-ur==2025.3.3\n[pip3] intel-openmp==2025.3.3\n[pip3] mkl==2025.3.1\n[pip3] mypy_extensions==1.1.0\n[pip3] numpy==2.2.6\n[pip3] nvidia-cublas-cu12==12.8.4.1\n[pip3] nvidia-cuda-cupti-cu12==12.8.90\n[pip3] nvidia-cuda-nvrtc-cu12==12.8.93\n[pip3] nvidia-cuda-runtime-cu12==12.8.90\n[pip3] nvidia-cudnn-cu12==9.10.2.21\n[pip3] nvidia-cufft-cu12==11.3.3.83\n[pip3] nvidia-curand-cu12==10.3.9.90\n[pip3] nvidia-cusolver-cu12==11.7.3.90\n[pip3] nvidia-cusparse-cu12==12.5.8.93\n[pip3] nvidia-cusparselt-cu12==0.7.1\n[pip3] nvidia-nccl-cu12==2.27.5\n[pip3] nvidia-nvjitlink-cu12==12.8.93\n[pip3] nvidia-nvtx-cu12==12.8.90\n[pip3] nvtx==0.2.15\n[pip3] onemkl-license==2025.3.1\n[pip3] onnx==1.21.0\n[pip3] optree==0.19.0\n[pip3] pytorch-ignite==0.5.4\n[pip3] pytorch-lightning==2.6.4\n[pip3] tbb==2022.3.1\n[pip3] tcmlib==1.4.1\n[pip3] torch==2.10.0+cu128\n[pip3] torchao==0.16.0+cu128\n[pip3] torchaudio==2.10.0+cu128\n[pip3] torchcodec==0.10.0+cu128\n[pip3] torchdata==0.11.0\n[pip3] torchinfo==1.8.0\n[pip3] torchmetrics==1.9.0\n[pip3] torchsummary==1.5.1\n[pip3] torchtune==0.6.1\n[pip3] torchvision==0.25.0+cu128\n[pip3] triton==3.6.0\n[pip3] umf==1.0.3\n[conda] Could not collect",
+  "transformers_version": "4.57.6",
+  "lm_eval_version": "0.4.12",
+  "upper_git_hash": null,
+  "tokenizer_pad_token": [
+    "<|endoftext|>",
+    "151643"
+  ],
+  "tokenizer_eos_token": [
+    "<|im_end|>",
+    "151645"
+  ],
+  "tokenizer_bos_token": [
+    null,
+    "None"
+  ],
+  "eot_token_id": 151645,
+  "max_length": 4096,
+  "task_hashes": {
+    "arabicmmlu_driving_test": "db0bafa4ce41781215b74637bd7c9aa63243887c68b4ca8092b308bba254e619",
+    "arabicmmlu_general_knowledge": "ea09c5a28fe4e3faa0f3394584a0566bb9e2a784baf292a274ed105d2cd1ab8b",
+    "arabicmmlu_general_knowledge_middle_school": "27574b61b1613d3f26f57046bf3534995becb87a99df7b7f3fa5bff8853b2c2b",
+    "arabicmmlu_general_knowledge_primary_school": "ec11f19e0786c5e6fa215ee8bce7499c5196b65fa372465be18201a86d1154d6",
+    "arabicmmlu_management_university": "28eae707dc781681a5d172749f3da134307ded05e58b9764ce4ff59e26b366c7",
+    "arabicmmlu_accounting_university": "1c4a14817c377b5bf994ed4cb7eb40ff3e6f2ef3ee31d27dda36546a4671d927",
+    "arabicmmlu_civics_high_school": "4ac66a59dbdc44c644e8340eb477e18925290a914118c7d60e316956d7a222c5",
+    "arabicmmlu_civics_middle_school": "749ff254598937af5d3b3259052d5450cce27802bcda825227f1e63bd44619b1",
+    "arabicmmlu_economics_high_school": "5eebbc52160faf9307f7678466c4d9c6103cb9db9c1cf8fce16a7fc2f07ca441",
+    "arabicmmlu_economics_middle_school": "92dd756dc00f5bc901e536e5ed5e4026f101ff1e75043e8dbc9858166028911f",
+    "arabicmmlu_economics_university": "b5072bd992dac84a99dc550e97442ffcd06b86f4b6bf380734a6fc56b8c97fd8",
+    "arabicmmlu_geography_high_school": "77412cb0a8dc7e97ad74f27b719ee518084207a2bc516de98f04d079eda4ee20",
+    "arabicmmlu_geography_middle_school": "84ade2fa8817f54c046214788ec4e9d0d73d1167f87bb1d93ba28c67607c0da3",
+    "arabicmmlu_geography_primary_school": "c6aaa12d35497b94a77a9a3c192c77cb830268e63f199a4cbbfc8dd97383564f",
+    "arabicmmlu_political_science_university": "ead16411a395d76996b2bc449ca8f1c3304413cff16f7b35bf70e2ba3e37085b",
+    "arabicmmlu_social_science_middle_school": "4329cb90b1722ec374d884407813ce8ea5c4d1a5d1f49f68a7e28bc09bc196d8",
+    "arabicmmlu_social_science_primary_school": "ff3c840022c7a1a96e583617e60998a4eb132f90f7d9bebedd4418f1108e0c17",
+    "arabicmmlu_history_high_school": "8d59bebe700ce701ce170205f249af4b2e23bea7a3bcd17e666e3f27289b4b17",
+    "arabicmmlu_history_middle_school": "f04676f2e73c83c6122ccb0e371b3772607d8c9b8b1a1407d167471f4090bbb0",
+    "arabicmmlu_history_primary_school": "43195f2a9889d358a5e74025028f56c574a1a6d81b7bf278d01bcad2ec393310",
+    "arabicmmlu_islamic_studies": "de4751dabfb818ba9ec7d7ab19616cebb98a4386f359ffb4e1d8fcdca8691882",
+    "arabicmmlu_islamic_studies_high_school": "352cdd05905495f775b335b4101fa6724ad01e435eb0ec32f075e42c73db0775",
+    "arabicmmlu_islamic_studies_middle_school": "170ff4c6416b6906b4142837c8a0bfc2fbbcb547db938711f53d1b503247ae36",
+    "arabicmmlu_islamic_studies_primary_school": "393ec9ef069780c6c9411ea680ad72f9b5c03020a4c6eaf935e314ed46a32efb",
+    "arabicmmlu_law_professional": "f49c321b6456571c451775b17d037246a96968c95a0b6c485a134ffc01c123a8",
+    "arabicmmlu_philosophy_high_school": "d696ebdf26f83ac786a1aa5efc90df610469bf6623856c44d9525550dcd2b35b",
+    "arabicmmlu_biology_high_school": "d32479b84ef5547f1c8d38309cf0e546b4cf6c2c4df08891304158696f1d4179",
+    "arabicmmlu_computer_science_high_school": "2f2b78cd2852a0d54c9e18be22bef1cb9799ee82915f2f66612612de3af7803f",
+    "arabicmmlu_computer_science_middle_school": "59ae7853e8fffeea8e1e389591d1072c2b4f57afa481f3e774487392fa6cfb65",
+    "arabicmmlu_computer_science_primary_school": "9f22c85c929273681428fa0cdab375b9d6693f98bf9d2163e7ee32497b8a894e",
+    "arabicmmlu_computer_science_university": "bc5a4297cb089c6668811d1d3b747fb719952e77a2013c6640f4fc6c9d4ca13f",
+    "arabicmmlu_math_primary_school": "e5081507cf76797870d9fbcf3b5879b7bd4897703116512cbb86e7b23c87e273",
+    "arabicmmlu_natural_science_middle_school": "97180d93e179e6323da4d429061d1b3f351a394225dacd83698a39a6c3f0110e",
+    "arabicmmlu_natural_science_primary_school": "576428d38903819e0d90a2a2f62e144a6ab475eb32d70697dd1d1be8340e8aca",
+    "arabicmmlu_physics_high_school": "b475025d48ae55bb8389f96bd9c11b25f487544d70c5c0ad04bc2b9ffb4ca76b",
+    "arabicmmlu_arabic_language_general": "d4d61da4da402dfc180cd580887d0bfa80d78200e8e0f72ec401775f365bcc94",
+    "arabicmmlu_arabic_language_grammar": "8defac306faa51705f4f1e886de0718e9977f9a327c220a8ba811ae31bbe92ab",
+    "arabicmmlu_arabic_language_high_school": "cca1c3ae43f16f009182d7cb45d766026ea1a5d462fe0265912792471f97b238",
+    "arabicmmlu_arabic_language_middle_school": "a38aa5218160fc98f454925b4ff2fc2c75fc72ae605a0ebdfcf019ffda99c114",
+    "arabicmmlu_arabic_language_primary_school": "f0b663e463d23ffea222b0f3b4058796c5377827beda8138c66da654ce6d4297"
+  },
+  "model_source": "hf",
+  "model_name": "Qwen/Qwen3-4B-Instruct-2507",
+  "model_name_sanitized": "Qwen__Qwen3-4B-Instruct-2507",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": true,
+  "chat_template": "{%- if tools %}\n    {{- '<|im_start|>system\\n' }}\n    {%- if messages[0].role == 'system' %}\n        {{- messages[0].content + '\\n\\n' }}\n    {%- endif %}\n    {{- \"# Tools\\n\\nYou may call one or more functions to assist with the user query.\\n\\nYou are provided with function signatures within <tools></tools> XML tags:\\n<tools>\" }}\n    {%- for tool in tools %}\n        {{- \"\\n\" }}\n        {{- tool | tojson }}\n    {%- endfor %}\n    {{- \"\\n</tools>\\n\\nFor each function call, return a json object with function name and arguments within <tool_call></tool_call> XML tags:\\n<tool_call>\\n{\\\"name\\\": <function-name>, \\\"arguments\\\": <args-json-object>}\\n</tool_call><|im_end|>\\n\" }}\n{%- else %}\n    {%- if messages[0].role == 'system' %}\n        {{- '<|im_start|>system\\n' + messages[0].content + '<|im_end|>\\n' }}\n    {%- endif %}\n{%- endif %}\n{%- for message in messages %}\n    {%- if message.content is string %}\n        {%- set content = message.content %}\n    {%- else %}\n        {%- set content = '' %}\n    {%- endif %}\n    {%- if (message.role == \"user\") or (message.role == \"system\" and not loop.first) %}\n        {{- '<|im_start|>' + message.role + '\\n' + content + '<|im_end|>' + '\\n' }}\n    {%- elif message.role == \"assistant\" %}\n        {{- '<|im_start|>' + message.role + '\\n' + content }}\n        {%- if message.tool_calls %}\n            {%- for tool_call in message.tool_calls %}\n                {%- if (loop.first and content) or (not loop.first) %}\n                    {{- '\\n' }}\n                {%- endif %}\n                {%- if tool_call.function %}\n                    {%- set tool_call = tool_call.function %}\n                {%- endif %}\n                {{- '<tool_call>\\n{\"name\": \"' }}\n                {{- tool_call.name }}\n                {{- '\", \"arguments\": ' }}\n                {%- if tool_call.arguments is string %}\n                    {{- tool_call.arguments }}\n                {%- else %}\n                    {{- tool_call.arguments | tojson }}\n                {%- endif %}\n                {{- '}\\n</tool_call>' }}\n            {%- endfor %}\n        {%- endif %}\n        {{- '<|im_end|>\\n' }}\n    {%- elif message.role == \"tool\" %}\n        {%- if loop.first or (messages[loop.index0 - 1].role != \"tool\") %}\n            {{- '<|im_start|>user' }}\n        {%- endif %}\n        {{- '\\n<tool_response>\\n' }}\n        {{- content }}\n        {{- '\\n</tool_response>' }}\n        {%- if loop.last or (messages[loop.index0 + 1].role != \"tool\") %}\n            {{- '<|im_end|>\\n' }}\n        {%- endif %}\n    {%- endif %}\n{%- endfor %}\n{%- if add_generation_prompt %}\n    {{- '<|im_start|>assistant\\n' }}\n{%- endif %}",
+  "chat_template_sha": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326",
+  "total_evaluation_time_seconds": "212.06162581900026"
+}
